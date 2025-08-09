@@ -1,7 +1,7 @@
 function App() {
     return (
         <>
-            <h1>Adith K. Murali</h1>
+            <h1 class="more-spacing">Adith K. Murali</h1>
 
             <p>
                 IT professional with more than 3 years of experience in
@@ -31,9 +31,9 @@ function App() {
                 </li>
             </ol>
 
-            <h2 id="experience">Experience</h2>
+            <h2 class="more-spacing">Experience</h2>
 
-            <h3>Speridian Technologies(2022 - Present)</h3>
+            <h3>Speridian Technologies(June 2022 - August 2025)</h3>
             <p>
                 hands-on experience in working with a broad range of Oracle CRM
                 products including Oracle B2C Service Cloud, Oracle Field
@@ -43,8 +43,8 @@ function App() {
                 seamless system performance.
             </p>
 
-            <h2>Projects</h2>
-            <h3>Razer, Inc. Support Site (January 2023 - Present)</h3>
+            <h2 class="more-spacing">Projects</h2>
+            <h3>Razer, Inc. Support Site (January 2023 - August 2025)</h3>
             <p>
                 At Razer Inc., I worked on a range of client requirements, with
                 a primary focus on developing and enhancing Oracle B2C Service
@@ -62,14 +62,15 @@ function App() {
                 among others.
             </p>
 
-            <h3>Academic Project - Liquid Media Player</h3>
+            <h2 class="more-spacing">Personal Projects</h2>
+            <h3>Liquid Media Player</h3>
             <p>
                 Lightweight media player written in C++ using FFmpeg and SDL2.
                 Fully opensource, licenced under GNU GPL v2. Get it{" "}
                 <a href="https://github.com/ArrowInteractive/liquid">here.</a>
             </p>
 
-            <h3>Academic Project - ClamGuard Antivirus</h3>
+            <h3>ClamGuard Antivirus</h3>
             <p>
                 Free and opensource antivirus based on ClamAV. Simple GUI with
                 functionalities including different types of scans, quarantine
