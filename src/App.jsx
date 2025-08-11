@@ -8,8 +8,11 @@ function App() {
                 implementing and supporting Oracle B2C Service Cloud and Oracle
                 CRM solutions. Skilled in PHP, JavaScript, and CodeIgniter
                 Framework, with expertise in database management and building
-                efficient CRM solutions. Enthusiastic learner, always learning
-                something new.
+                efficient CRM solutions.
+            </p>
+            <p>
+                Free and open source software developer, enthusiastic learner,
+                always learning something new.
             </p>
 
             <ol class="twocol">
@@ -19,17 +22,20 @@ function App() {
                 <li>
                     <a href="mailto:adithmurali.gg@gmail.com">Email Me</a>
                 </li>
-                <li>
-                    <a href="https://www.linkedin.com/in/adithmurali/">
-                        LinkedIn
-                    </a>
-                </li>
+
                 <li>
                     <a href="https://github.com/5trange?tab=repositories">
                         Projects
                     </a>
                 </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/adithmurali/">
+                        LinkedIn
+                    </a>
+                </li>
             </ol>
+
+            <hr></hr>
 
             <h2 class="more-spacing">Experience</h2>
 
@@ -42,6 +48,8 @@ function App() {
                 client relationships, optimize business processes, and ensure
                 seamless system performance.
             </p>
+
+            <hr></hr>
 
             <h2 class="more-spacing">Projects</h2>
             <h3>Razer, Inc. Support Site (January 2023 - August 2025)</h3>
@@ -62,13 +70,15 @@ function App() {
                 among others.
             </p>
 
+            <hr></hr>
+
             <h2 class="more-spacing">Personal Projects</h2>
             <h3>Liquid Media Player</h3>
             <p>
                 Lightweight media player written in C++ using FFmpeg and SDL2.
-                Fully opensource, licenced under GNU GPL v2.
+                Fully opensource, licenced under GNU GPL v2.{" "}
                 <a href="https://github.com/ArrowInteractive/liquid">
-                    <button class="block accent">Get it here.</button>
+                    Get it here.
                 </a>
             </p>
 
@@ -78,10 +88,8 @@ function App() {
                 functionalities including different types of scans, quarantine
                 system, etc. A background process of ClamGuard watches the
                 system drive for any malicious code. Fully opensource, licenced
-                under GNU GPL v2.
-                <a href="https://github.com/5trange/ClamGuard">
-                    <button class="block accent">Get it here.</button>
-                </a>
+                under GNU GPL v2.{" "}
+                <a href="https://github.com/5trange/ClamGuard">Get it here.</a>
             </p>
         </>
     );
