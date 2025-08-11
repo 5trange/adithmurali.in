@@ -66,8 +66,10 @@ function App() {
             <h3>Liquid Media Player</h3>
             <p>
                 Lightweight media player written in C++ using FFmpeg and SDL2.
-                Fully opensource, licenced under GNU GPL v2. Get it{" "}
-                <a href="https://github.com/ArrowInteractive/liquid">here.</a>
+                Fully opensource, licenced under GNU GPL v2.
+                <a href="https://github.com/ArrowInteractive/liquid">
+                    <button class="block accent">Get it here.</button>
+                </a>
             </p>
 
             <h3>ClamGuard Antivirus</h3>
@@ -76,8 +78,10 @@ function App() {
                 functionalities including different types of scans, quarantine
                 system, etc. A background process of ClamGuard watches the
                 system drive for any malicious code. Fully opensource, licenced
-                under GNU GPL v2. Get it{" "}
-                <a href="https://github.com/5trange/ClamGuard">here.</a>
+                under GNU GPL v2.
+                <a href="https://github.com/5trange/ClamGuard">
+                    <button class="block accent">Get it here.</button>
+                </a>
             </p>
         </>
     );
