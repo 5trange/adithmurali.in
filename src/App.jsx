@@ -91,6 +91,10 @@ function App() {
                 under GNU GPL v2.{" "}
                 <a href="https://github.com/5trange/ClamGuard">Get it here.</a>
             </p>
+
+            <a class="home" href="/">
+                ↑
+            </a>
         </>
     );
 }
